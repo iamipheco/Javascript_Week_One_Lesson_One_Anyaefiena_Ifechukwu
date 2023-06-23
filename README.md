@@ -1,5 +1,4 @@
-## This repository contains the code for my Javascript codes.
--
+# This repository contains the code for my Javascript codes and Syntax.
 
 ## Files
 - index.html This is the main page of the website. It contains information about the website.
