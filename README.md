@@ -5,7 +5,7 @@
 
 - tasks/ This directory contains javascript codes used on the website.
 
-## Week One Lesson One: Data Types and Javascript Syntax
+## Week One Lesson One Tasks and Solution : Data Types and Javascript Syntax
 ### Task 1.js: Create and manipulate strings;
 - Create a variable name and assign it a string value.
 - Use string concatenation to create a new string that includes the name variable.
